@@ -5,7 +5,7 @@ author:   joe
 datetime: May 22nd
 """
 
-Here are three file floders:
+Here are three file folds:
     android_server   --- connector between android and mysql_server (designed by PyCharm)
     AndroidDesign    --- android code (designed by AndroidStudio)
     detect_temp_humi --- hardware code(utilization of the DHTsensor which detect temperature&humidity and esp8266 which send the data detected to the sqlserver)(designed by arduino)
