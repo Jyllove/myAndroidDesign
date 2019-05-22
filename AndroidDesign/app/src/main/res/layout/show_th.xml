@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_x="40dp"
+        android:layout_y="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Welcome!" />
+    <TextView
+        android:layout_x="60dp"
+        android:layout_y="110dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="温度：" />
+    <TextView
+        android:id="@+id/temperature"
+        android:layout_x="200dp"
+        android:layout_y="110dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="27" />
+    <TextView
+        android:layout_x="60dp"
+        android:layout_y="180dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="湿度：" />
+    <TextView
+        android:id="@+id/humidity"
+        android:layout_x="200dp"
+        android:layout_y="180dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="30" />
+    <Button
+        android:id="@+id/update"
+        android:layout_x="60dp"
+        android:layout_y="300dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="更新"/>
+</AbsoluteLayout>
