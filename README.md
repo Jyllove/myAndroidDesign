@@ -1,4 +1,4 @@
-#This is my android practicum. 
+# This is my android practicum. 
 
 name: AndroidDesign  
 function: one can use the android phone to supervise the temperature and the humidity surroundings   
