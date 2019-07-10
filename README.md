@@ -3,7 +3,7 @@
 name: AndroidDesign  
 function: one can use the android phone to supervise the temperature and the humidity surroundings   
 author: joe    
-datetime: May 22nd
+datetime: May 22nd, 2019
 
 Here are three file folds:              
     
